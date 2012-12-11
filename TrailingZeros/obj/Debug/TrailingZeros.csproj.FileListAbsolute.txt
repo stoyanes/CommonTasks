@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\CommonTasks\TrailingZeros\bin\Debug\TrailingZeros.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\CommonTasks\TrailingZeros\bin\Debug\TrailingZeros.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\CommonTasks\TrailingZeros\bin\Debug\TrailingZeros.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\CommonTasks\TrailingZeros\obj\Debug\TrailingZeros.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\CommonTasks\TrailingZeros\obj\Debug\TrailingZeros.pdb

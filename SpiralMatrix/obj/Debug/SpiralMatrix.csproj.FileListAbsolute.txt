@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\CommonTasks\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\CommonTasks\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\CommonTasks\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\CommonTasks\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\CommonTasks\SpiralMatrix\obj\Debug\SpiralMatrix.pdb
